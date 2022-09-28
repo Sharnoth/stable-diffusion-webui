@@ -9,7 +9,7 @@ dependencies:
   - git
   - numpy=1.22.3
   - pip=21.2.4
-  - python=3.8.8
+  - python=3.9
   - pytorch=1.11.0
   - scikit-image=0.19.2
   - torchvision=0.12.0
