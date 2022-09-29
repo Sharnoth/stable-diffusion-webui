@@ -2,7 +2,6 @@ name: ldm
 channels:
   - pytorch
   - defaults
-  - KumaTea
   - conda-forge
 dependencies:
   - cudatoolkit=11.3
